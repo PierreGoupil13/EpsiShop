@@ -1,0 +1,4 @@
+#Wed Nov 23 14:18:11 CET 2022
+base.0=/Users/pierre/Desktop/EPSI/Projet_cours/DevMobile/EpsiShop/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
